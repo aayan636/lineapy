@@ -107,6 +107,7 @@ doc_libs = [
     "mkdocs-material",
     "mkdocstrings",
     "mkdocstrings-python",
+    "mkdocs-jupyter",
 ]
 
 typing_libs = [
